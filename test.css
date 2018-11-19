@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+
+
+
+
+.plat{
+width:327px;
+height:320px;
+padding-top: 30px;
+font-size: 16px;
+margin:0 auto;
+
+
+}
+
+.main{
+    background-size:cover;
+    border:2px solid red;
+}
+.logo{
+    display: block;
+    height:100px;
+    width:244px;
+    margin: 0 auto 20px;
+   background-size:244px 100px;
+}
+
+.gaopeiyaoshabi{
+        padding-left: 15px;
+        border: 4px solid;
+        border-radius:8px;
+}
+
+
+
+.zxc1{
+    padding:0 15px;
+
+    border-color: red;
+    border-radius: 6 px;
+}
+.zxc2{
+
+    padding:15px;
+}
+
+
+.username{
+    margin-bottom: 10px;
+}
+.password{
+}
